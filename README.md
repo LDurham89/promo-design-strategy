@@ -1,4 +1,5 @@
-## Starbucks promotin design stratgey project
+## Starbucks promotion design stratgey project
+Add some fancy graphics
 
 ### What this aims to do
 
